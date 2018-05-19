@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="login_title_margin_top">40dp</dimen>
+    <dimen name="profile_image_size">40dp</dimen>
+    <dimen name="message_image_size">180dp</dimen>
+    <dimen name="add_photo_button_size">60dp</dimen>
+    <dimen name="add_photo_button_padding">10dp</dimen>
+    <dimen name="send_message_button_padding">10dp</dimen>
+    <dimen name="shadow_height">6dp</dimen>
+
+    <dimen name="default_margin_padding_extra_extra_small">1dp</dimen>
+    <dimen name="default_margin_padding_extra_small">2dp</dimen>
+    <dimen name="default_margin_padding_small">4dp</dimen>
+    <dimen name="default_margin_padding_normal">8dp</dimen>
+    <dimen name="default_margin_padding_large">16dp</dimen>
+    <dimen name="default_margin_padding_extra_large">32dp</dimen>
+    <dimen name="width_height_profile_48">48dp</dimen>
+    <dimen name="corner_radius">5dp</dimen>
+</resources>

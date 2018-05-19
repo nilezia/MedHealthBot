@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282376528902",
+    "firebase_url": "https://medhealthcare-ad168.firebaseio.com",
+    "project_id": "medhealthcare-ad168",
+    "storage_bucket": "medhealthcare-ad168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282376528902:android:919be48246f2d4e9",
+        "android_client_info": {
+          "package_name": "app.bughunt.medhealthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282376528902-9mv9ai5i42f2taklhk5fdq30dhjgssof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.bughunt.medhealthcare",
+            "certificate_hash": "d3b0e427222debf8cb3e0702909e25f26b718d79"
+          }
+        },
+        {
+          "client_id": "282376528902-g9q1jqbi35s66rjlq051fqp07hmqjq3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgetLfVG3r3ZsfLBq_aaiRNeQRms9Em4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282376528902-g9q1jqbi35s66rjlq051fqp07hmqjq3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
